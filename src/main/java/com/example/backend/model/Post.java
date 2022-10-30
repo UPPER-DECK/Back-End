@@ -15,6 +15,7 @@ import java.util.Collection;
 @Document(collection="Post")
 public class Post {
     @Id
+
     private int id;
     private String Caption;
     private String Category;
