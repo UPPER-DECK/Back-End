@@ -17,8 +17,8 @@ public class Post {
     @Id
 
     private int id;
-    private String Caption;
-    private String Category;
-    private String ImageUrl;
+    private String caption;
+    private String category;
+    private String imageUrl;
 
 }
